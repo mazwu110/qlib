@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_head_bar" />
+
+    <LinearLayout
+        android:id="@+id/ll_show_normal"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <include layout="@layout/include_banner" />
+
+            <TextView style="@style/HorizontalLine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/llabort"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/item_white_selector"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_abort"
+                    style="@style/TextFillHorizontalWeight"
+                    android:layout_height="match_parent"
+                    android:drawableRight="@drawable/main_next"
+                    android:gravity="left|center"
+                    android:padding="10dp"
+                    android:text="公司介绍"
+                    android:textColor="@color/red" />
+            </LinearLayout>
+
+            <TextView style="@style/HorizontalLine" />
+
+            <com.qlib.XListView.XListView
+                android:id="@+id/listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:divider="@null"
+                android:dividerHeight="0dp"
+                android:scrollbars="none" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/include_net_error" />
+
+</LinearLayout>

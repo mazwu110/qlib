@@ -1,0 +1,898 @@
+[
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_gf_clear.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bg_cleanedit.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_cleanedit.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_14.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_14.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_gf_rotate.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bg_search_box.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_search_box.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_search_clear_pressed.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_mediacontroller_seekbar02.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_xlistview_footer.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_06.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_06.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_white_input_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_input_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_gf_back.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_gf_back.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_gf_ic_preview.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\gf_ic_preview.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_gf_clear.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_checkbox_on.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkbox_on.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_main_next.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\main_next.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_15.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_15.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_item_white_selector.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_white_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_gf_crop.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_mediacontroller_play02.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_pop_camera.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_camera.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_include_net_error.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\include_net_error.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_include_banner.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\include_banner.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_left_out.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_gf_back.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_gf_back.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_08.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_08.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gf_activity_photo_edit.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_edit.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_05.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_05.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_xlistview_header.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_16.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_16.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_image_view.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_image_view.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_checkbox_iphone.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\checkbox_iphone.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_back.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_mediacontroller_play01.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_gf_clear.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_player_progress_thumb_pressed.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\player_progress_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_mediacontroller_seekbar01.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_delete_selector.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\delete_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_grey_btn_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\grey_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_13.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_13.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_crop_tile.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_crop_tile.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_divider.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\divider.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_item_lib_dlg_grid.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_lib_dlg_grid.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_star1.jpg.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\star1.jpg"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_crop.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_back_white.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_back_white.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_18.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_18.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_item_camera_selector.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_camera_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_rotate.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_addticket_background.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\addticket_background.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_bg_dlg_white.9.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_dlg_white.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_back.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_back.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_showwebcontents.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_showwebcontents.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_11.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_11.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_gf_rotate.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_03.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_03.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_star2.jpg.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\star2.jpg"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_qlib_sigleinputdlg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\qlib_sigleinputdlg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_checkbox_off.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkbox_off.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gf_adapter_photo_list_item.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_photo_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_item_image_viewpager.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_image_viewpager.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_qlib_fade_out.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\qlib_fade_out.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_gf_done.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_img_faceimg_small_default.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\img_faceimg_small_default.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_qcdatetimepicker.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\qcdatetimepicker.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_addticket_foc.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\addticket_foc.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_input_del.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_input_del.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_gf_camera.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_qlib_inputdlg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\qlib_inputdlg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_showalbum_image.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_showalbum_image.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_09.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_09.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_blue_btn_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\blue_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_gf_rotate.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_12.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_12.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_camera.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_player_progress.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\player_progress.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_player_progress_second.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\player_progress_second.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_folder_check.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_folder_check.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_right.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_right.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_item_null_selector.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_null_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bg_progress.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_progress.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_right_in.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gf_adapter_edit_list.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_edit_list.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_qlib_dlg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\qlib_dlg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_downsign_old.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\downsign_old.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_search_clear.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_search_clear.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_pop_window_list.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_window_list.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_check_box_batch_task_no.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\check_box_batch_task_no.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_addticket_def.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\addticket_def.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_clear_pressed.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\clear_pressed.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gf_adapter_preview_viewpgaer_item.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_preview_viewpgaer_item.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_gf_back.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_gf_back.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_star1_big.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\star1_big.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_qcgrey_btn_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\qcgrey_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_04.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_04.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_gf_camera.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_17.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_17.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_include_head_bar.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\include_head_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_star2_big.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\star2_big.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_clear_normal.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\clear_normal.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_red_btn_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\red_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_switch_off.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_switch_off.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_triangle_arrow.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_triangle_arrow.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_gf_flip_horizontal_in.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\gf_flip_horizontal_in.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_search.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_black_down.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\black_down.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_divider_horizontal.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\divider_horizontal.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_item_only_photo.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_only_photo.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_divider_vertical.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\divider_vertical.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gf_activity_photo_select.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_select.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_mediacontroller_bg.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_mediacontroller_pause02.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_left_in.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_gf_done.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_gf_crop.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_room_rating_bar.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\room_rating_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_checke_box_batch_task.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\checke_box_batch_task.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_img_faceimg_default.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\img_faceimg_default.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_qcdatepicker.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\qcdatepicker.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gridpasswordview.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\gridpasswordview.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_gf_ic_preview.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\gf_ic_preview.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_web.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_btn_login_pressed.9.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\btn_login_pressed.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_net_error_new.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_net_error_new.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_right_out.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_dot_sel.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_dot_sel.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_qlib_dlg_grid.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\qlib_dlg_grid.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_mediacontroller_pause01.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_switch_on.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_switch_on.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_gf_back.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_gf_back.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_player_progress_background.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\player_progress_background.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gf_activity_photo_preview.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_preview.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bg_gf_crop_texture.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_gf_crop_texture.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_gf_done.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_gf_crop.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_gf_camera.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_dir_choose.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dir_choose.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_cicle_text.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\cicle_text.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_default_photo.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_default_photo.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_10.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_10.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_qlib_fade_in.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\qlib_fade_in.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_qlib_dlg_pay_password.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\qlib_dlg_pay_password.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_player_progress_thumb.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\player_progress_thumb.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_gf_rotate.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gf_adapter_folder_list_item.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_gf_preview.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_gf_preview.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_dot_unsel2.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_dot_unsel2.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_btn_orange.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_orange.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_gf_ic_preview.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\gf_ic_preview.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_search_left.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_search_left.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_bg_default.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_default.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_gf_clear.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_liv_ic_down.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\liv_ic_down.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_room_rating_bar_big.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\room_rating_bar_big.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_white_btn_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_item_load_more.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_load_more.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_transparent.9.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\transparent.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_02.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_02.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_qlib_fade_out_new.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\qlib_fade_out_new.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_gf_ic_preview.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\gf_ic_preview.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_txt_selector.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\txt_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_gf_camera.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_pic_dir.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pic_dir.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_pictures_selected.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pictures_selected.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_delete_photo.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_delete_photo.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_gf_flip_horizontal_out.xml.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\gf_flip_horizontal_out.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_yellow_btn_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\yellow_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_green_btn_bg.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\green_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_gf_crop.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_pictures_no.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pictures_no.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_item_add_pic.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_add_pic.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_01.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_01.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_clear.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bg_switch.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_switch.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_item_banner_image.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_banner_image.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_picture_unselected.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\picture_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_qlib_fade_in_new.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\anim\\qlib_fade_in_new.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_textview.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_btn_login_normal.9.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\btn_login_normal.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\0df04dcf1cd08a1192b2857fe74dde66\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_item_only_photo_small.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_only_photo_small.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_item_shadow_selector.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_shadow_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_xicon.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\xicon.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_search_clear_normal.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_dialog_bg.9.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_gf_done.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_loading_07.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\loading_07.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_loadingdialog.xml.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\layout\\loadingdialog.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\12865\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\00c66fa27b2420786ce540c71f473471\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_xlistview_arrow.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_gf_done.png.flat",
+        "source": "D:\\work\\qlib\\photoSelectActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\work\\qlib\\nlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_check_box_batch_task_off.png.flat",
+        "source": "D:\\work\\qlib\\nlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\check_box_batch_task_off.png"
+    }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <CheckBox
+        android:id="@+id/cb_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:button="@drawable/checke_box_batch_task"
+        android:checked="false"
+        android:padding="5dp"
+        android:text="张老师"
+        android:textColor="@color/color_4D"
+        android:textSize="14sp" />
+
+</LinearLayout>

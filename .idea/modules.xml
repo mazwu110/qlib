@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libumeng/libumeng.iml" filepath="$PROJECT_DIR$/libumeng/libumeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nlib/nlib.iml" filepath="$PROJECT_DIR$/nlib/nlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgo/okgo.iml" filepath="$PROJECT_DIR$/okgo/okgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoSelectActivity/photoSelectActivity.iml" filepath="$PROJECT_DIR$/photoSelectActivity/photoSelectActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qlib.iml" filepath="$PROJECT_DIR$/qlib.iml" />
+    </modules>
+  </component>
+</project>

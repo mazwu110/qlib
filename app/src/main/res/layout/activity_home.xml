@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_head_bar" />
+
+    <LinearLayout style="@style/FillHorizontal">
+
+        <Button
+            android:id="@+id/btn_list"
+            style="@style/TextWrap"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="列表" />
+
+        <Button
+            android:id="@+id/btn_photo"
+            style="@style/TextWrap"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="图片" />
+
+        <Button
+            android:id="@+id/btn_share"
+            style="@style/TextWrap"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="分享" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/FillHorizontal">
+
+        <Button
+            android:id="@+id/btn_umeng"
+            style="@style/TextWrap"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="友盟相关" />
+
+        <Button
+            android:id="@+id/btn_banner"
+            style="@style/TextWrap"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="横幅" />
+
+        <Button
+            android:id="@+id/btn_sever"
+            style="@style/TextWrap"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="服务器数据" />
+
+    </LinearLayout>
+
+</LinearLayout>

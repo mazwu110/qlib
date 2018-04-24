@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="achieve_width">50dp</dimen>
+    <dimen name="spring_hight">180dp</dimen>
+    <dimen name="shadow_width">3dp</dimen>
+    <dimen name="slidingmenu_offset">120dp</dimen>
+    <dimen name="user_photo_width">60dp</dimen>
+    <dimen name="user_photo_height">60dp</dimen>
+    <dimen name="user_small_photo_width">25dp</dimen>
+    <dimen name="user_samll_photo_height">25dp</dimen>
+    
+
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_large">16sp</dimen>
+    <dimen name="font_xlarge">18sp</dimen>
+
+
+</resources>
